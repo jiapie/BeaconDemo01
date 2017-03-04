@@ -1,0 +1,31 @@
+{
+  "Device": {
+    "UUID": "77777777-49A7-4DBF-914C-760D07FBB87B",
+    "SECTION": [
+      {
+        "Major": "1",
+        "Title": "(1) 蝸牛",
+        "Minor": [
+          {
+            "Minor": "1",
+            "Title": "展項1",
+            "Pic": "01.png",
+            "Voice": "01 蝸牛.mp3"
+          },
+          {
+            "Minor": "2",
+            "Title": "(2) 趁我還會記",
+            "Pic": "02.png",
+            "Voice": "02 趁我還會記.mp3"
+          },
+          {
+            "Minor": "3",
+            "Title": "(3) 頑固",
+            "Pic": "03.png",
+            "Voice": "03 頑固.mp3"
+          }
+        ]
+      }
+    ]
+  }
+}
